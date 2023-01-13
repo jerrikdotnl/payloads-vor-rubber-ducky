@@ -1,0 +1,7 @@
+DELAY 8000
+GUI r
+DELAY 200
+STRING cmd
+ENTER
+DELAY 200
+STRING start msedge www.jerrik.nl
